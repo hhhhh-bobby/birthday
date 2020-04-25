@@ -29,7 +29,8 @@ var config = {
      */
     imgs: {
         "送给我们": "./imgs/b321-fyqrewi0541915.jpg",
-        "猜猜这是谁？": "./imgs/b321-fyqrewi0541915.jpg",
+        "猜猜这是谁？": "./imgs/txx.jpg",
+        "对！是天祥": "./imgs/tianxd.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字

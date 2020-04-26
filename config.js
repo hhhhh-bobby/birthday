@@ -33,7 +33,7 @@ var config = {
     imgs: {
         "送给我们": "./imgs/zzb_20200425124839.jpg",
         "为洁鑫大帅锅疯狂打call": "./imgs/jie.jpg.jpg",
-        "接下来上场的是我们组织部的美媚": "./imgs/jie.jpg.jpg",
+        "接下来上场的是我们组织部的美媚": "./imgs/微信图片_20200426211825.jpg",
         "猜猜这是谁?": "./imgs/txx.jpg",
         "对!是天祥": "./imgs/tianxd.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
